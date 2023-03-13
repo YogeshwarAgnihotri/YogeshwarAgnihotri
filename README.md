@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Welcome to my profile.
 
 # 💫 About Me:
 Currently I am master's student and employed at the Ruhr University Bochum.
