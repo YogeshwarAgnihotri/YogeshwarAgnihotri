@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-Currently I am master's student at the Ruhr University Bochum.
-
-Employed at the Institut für Neuroinformatik at the Ruhr University Bochum.
+Currently I am master's student and employed at the Ruhr University Bochum.
 
 C++ development
 Data Science 
