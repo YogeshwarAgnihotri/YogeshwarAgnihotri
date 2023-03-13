@@ -1,7 +1,9 @@
-![github-header-image(2)](https://user-images.githubusercontent.com/51967766/224768003-1f8a69eb-d7a0-4476-81ec-bc034310ec68.png)
+![github-header-image(4)](https://user-images.githubusercontent.com/51967766/224768436-e74a53d3-31e4-45a9-a76a-299c3f52b38f.png)
+
+
 
 # 💫 About Me:
-Currently I am master's student and employed at the Ruhr University Bochum.
+Currently I am master's student and employed at the Ruhr University Bochum as a developer for <a href="https://github.com/cedar/cedar">Cedar</a>.
 
 
 # 💻 Tech Stack:
