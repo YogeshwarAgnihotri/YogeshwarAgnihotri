@@ -1,11 +1,7 @@
-### Hi there 👋 Welcome to my profile.
+![github-header-image(2)](https://user-images.githubusercontent.com/51967766/224768003-1f8a69eb-d7a0-4476-81ec-bc034310ec68.png)
 
 # 💫 About Me:
 Currently I am master's student and employed at the Ruhr University Bochum.
-
-C++ development <br>
-Data Science <br>
-AI <br>
 
 
 # 💻 Tech Stack:
