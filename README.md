@@ -1,7 +1,13 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+Currently I am master's student at the Ruhr University Bochum.
+
+Employed at the Institut für Neuroinformatik at the Ruhr University Bochum.
+
+C++ development
+Data Science 
+AI
 
 
 # 💻 Tech Stack:
