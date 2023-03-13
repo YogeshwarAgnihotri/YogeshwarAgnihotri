@@ -3,9 +3,9 @@
 # 💫 About Me:
 Currently I am master's student and employed at the Ruhr University Bochum.
 
-C++ development
-Data Science 
-AI
+C++ development <br>
+Data Science <br>
+AI <br>
 
 
 # 💻 Tech Stack:
